@@ -1,0 +1,25 @@
+/* Reset default styles and set box-sizing */
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+
+    background-color: antiquewhite;
+}
+
+h1,h2{
+    color: red;
+    font-size: x-large;
+    text-align: center;
+}
+
+article {
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
